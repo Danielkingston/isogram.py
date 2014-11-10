@@ -35,5 +35,6 @@ if length in range(5,8) and nonrepeating:
 
 elif length > 7:
     print('String is too long.')
+
 elif length < 5:
     print('String is too short.')
