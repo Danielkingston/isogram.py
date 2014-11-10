@@ -9,4 +9,4 @@ $ python app.py
 isogram: [your isogram here]
 ```
 
-Isogram's have no repeating characters and are either 5, 6, or 7 characters.
+Isogram's have no repeating characters and are 5, 6, or 7 characters long.
